@@ -58,8 +58,8 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signin.png" alt="Sign In Page" style="width: 45%;">
     <img src="/img/signup.png" alt="Sign Up Page" style="width: 45%;">
-    <img src="/img/signup(creatinguser)" png alt="Creating User Page" style="width: 45%;">
-    <img src="/img/selectmusicaltaste" png alt="Creating User Page" style="width: 45%;">
+    <img src="/img/signup(creatinguser).png" png alt="Creating User Page" style="width: 45%;">
+    <img src="/img/selectmusicaltaste.png" png alt="Creating User Page" style="width: 45%;">
   </div>
 
   <h3>Jam Information Page</h3>
