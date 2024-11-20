@@ -82,6 +82,12 @@
     <img src="/img/editExperience.png" alt="Edit Experience Page" style="width: 45%;">
   </div>
 
+  <h3>Review Info Page</h3>
+  <p>With any site that helps poeple it is also helpful to receive any constructive criticism they may have, or to note things that are done well. There is also a sorting option that allows for one to see the reviews chronologically or in order of what rating they gave.</p>
+  <div style="display: flex", justify-content: space-around:">
+    <img src="/img/Review-info.png" alt="Review Info Page">
+  </div>
+  
   <h2 id="dev-guide">Developer Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#dev-guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
   <p>This section provides information of interest to Next developers wishing to use this code as a basis for their own development tasks.</p>
