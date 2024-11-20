@@ -58,6 +58,8 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signin.png" alt="Sign In Page" style="width: 45%;">
     <img src="/img/signup.png" alt="Sign Up Page" style="width: 45%;">
+    <img src="/img/signup(creatinguser)" png alt="Creating User Page" style="width: 45%;">
+    <img src="/img/selectmusicaltaste" png alt="Creating User Page" style="width: 45%;">
   </div>
 
   <h3>Jam Information Page</h3>
@@ -84,7 +86,7 @@
 
   <h3>Review Info Page</h3>
   <p>With any site that helps poeple it is also helpful to receive any constructive criticism they may have, or to note things that are done well. There is also a sorting option that allows for one to see the reviews chronologically or in order of what rating they gave.</p>
-  <div style="display: flex", justify-content: space-around:">
+
     <img src="/img/Review-info.png" alt="Review Info Page">
   </div>
   
