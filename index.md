@@ -29,9 +29,9 @@
   </b>
   <hr>
 
-  <a href="https://github.com/musicians-of-manoa/musicians-of-manoa.github.io/blob/main/img/Musicians%20of%20Manoa%20-%20Team%20Contract.pdf"><b>Team Contract</b></a>
+  <a href="/img/Musicians%20of%20Manoa%20-%20Team%20Contract.pdf"><b>Team Contract</b></a>
   <br>
-  <a href="https://github.com/musicians-of-manoa/musicians-of-manoa.github.io/blob/main/img/Musicians%20of%20Manoa%20-%20Team%20Bonding.pdf"><b>Team Bonding</b></a>
+  <a href="/img/Musicians%20of%20Manoa%20-%20Team%20Bonding.pdf"><b>Team Bonding</b></a>
 
   <h2 id="approach">Approach<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#approach" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
