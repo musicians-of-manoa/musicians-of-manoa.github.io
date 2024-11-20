@@ -69,11 +69,11 @@
   <h3>Edit Musical Goals / Tastes / Experience Pages</h3>
   <p>Musical goals, musical tastes, and musical experience levels are all pieces of information acquired from users when creating their account. This allows jam organizers and fellow musicians to find musicians with specific skills and inclinations. For simplicity, the options for each are limited by site administrators and can be edited on this page.</p>
   <div style="display: flex; justify-content: space-around;">
-    <div style="display: flex; justify-content: space-around;">
-      <img src="/img/editGoal.png" alt="Edit Goals Page" style="width: 30%;">
-      <img src="/img/editTaste.png" alt="Edit Tastes Page" style="width: 30%;">
-      <img src="/img/editExperience.png" alt="Edit Experience Page" style="width: 30%;">
-    </div>
+    <img src="/img/editGoal.png" alt="Edit Goals Page">
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/editTaste.png" alt="Edit Tastes Page" style="width: 45%;">
+    <img src="/img/editExperience.png" alt="Edit Experience Page" style="width: 45%;">
   </div>
 
   <h2 id="dev-guide">Developer Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#dev-guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
