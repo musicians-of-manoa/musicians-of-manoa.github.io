@@ -57,7 +57,7 @@
   <p>Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" if you already have an account created, if not you can create an account by clicking "Sign up" instead.</p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signin.png" alt="Sign In Page" style="width: 45%;">
-    <img src="/img/signup.png" alt="Sign Up Page" style="width: 45%;">
+    <img src="/img/signup.png" alt="Sign Up Page" style="width: 45%;"></br>
     <img src="/img/signup(creatinguser).png" png alt="Creating User Page" style="width: 45%;">
     <img src="/img/selectmusicaltaste.png" png alt="Creating User Page" style="width: 45%;">
   </div>
