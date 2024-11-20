@@ -45,7 +45,7 @@
 
   <h2 id="guide">Website Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
-  <p>This section provides a walkthrough of the Musicians of Manoa current interface and its capabilities. Currently, the website is primarily composed of mockup pages, including the following.</p>
+  <p>This section provides a walkthrough of the Musicians of Manoa current interface and its capabilities. Currently, the website is primarily composed of mockup pages, including the following. You can find the website at this link <a  href="https://musicians-of-manoa.vercel.app/">https://musicians-of-manoa.vercel.app</a>.</p>
 
   <h3>Landing Page</h3>
   <p>The landing page is presented to users when they visit the top-level URL to the site. This page presents basic information about the project and buttons that will take them to other commonly used pages.</p>
@@ -56,8 +56,7 @@
   <h3>Sign In/Sign Up</h3>
   <p>Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" if you already have an account created, if not you can create an account by clicking "Sign up" instead.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/signin.png" alt="Sign In Page" style="width: 45%;">
-    <img src="/img/signup.png" alt="Sign Up Page" style="width: 45%;">  
+    <img src="/img/signin.png" alt="Sign In Page">
   </div>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signup(creatinguser).png" png alt="Creating User Page" style="width: 45%;">
