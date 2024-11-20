@@ -27,11 +27,11 @@
   Dahyun Kwon <br>
   Samantha Limon <br>
   </b>
-  ---
+  <hr>
 
-  <b>[Team Contract](/img/Musicians%20of%20Manoa%20-%20Team%Contract.pdf)</b>
+  <a href="/img/Musicians%20of%20Manoa%20-%20Team%Contract.pdf"><b>Team Contract</b></a>
   <br>
-  <b>[Team Bonding](/img/Musicians%20of%20Manoa%20-%20Team%20Bonding.pdf)</b>
+  <a href="/img/Musicians%20of%20Manoa%20-%20Team%20Bonding.pdf"><b>Team Bonding</b></a>
 
   <h2 id="approach">Approach<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#approach" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
@@ -70,9 +70,9 @@
   <p>Musical goals, musical tastes, and musical experience levels are all pieces of information acquired from users when creating their account. This allows jam organizers and fellow musicians to find musicians with specific skills and inclinations. For simplicity, the options for each are limited by site administrators and can be edited on this page.</p>
   <div style="display: flex; justify-content: space-around;">
     <div style="display: flex; justify-content: space-around;">
-      <img src="/img/editgoals.png" alt="Edit Goals Page" style="width: 30%;">
-      <img src="/img/edittastes.png" alt="Edit Tastes Page" style="width: 30%;">
-      <img src="/img/editexperience.png" alt="Edit Experience Page" style="width: 30%;">
+      <img src="/img/editGoal.png" alt="Edit Goals Page" style="width: 30%;">
+      <img src="/img/editTaste.png" alt="Edit Tastes Page" style="width: 30%;">
+      <img src="/img/editExperience.png" alt="Edit Experience Page" style="width: 30%;">
     </div>
   </div>
 
@@ -81,23 +81,24 @@
   <p>This section provides information of interest to Next developers wishing to use this code as a basis for their own development tasks.</p>
 
   <h3>Installation</h3>
-  First, make sure you have [Node](https://nodejs.org/en) installed.
+  First, make sure you have <a href="https://nodejs.org/en">Node</a> installed.
 
-  Second, visit the [Musicians of Manoa](https://github.com/musicians-of-manoa/musicians-of-manoa) github page, and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+  Second, visit the <a href="https://github.com/musicians-of-manoa/musicians-of-manoa">Musicians of Manoa</a> GitHub page, and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
 
   Third, after having installed your local copy of the application, cd into the musicians-of-manoa directory with a command terminal and install libraries with:
-  ```
-  $ npm install
-  ```
-  Fourth, run the system with: 
-  ```
-  $ npm run dev
-  ```
+  <code>
+    $ npm install
+  </code>
 
-  If everything was successful, you will be able to view the application at [http://localhost:3000](http://localhost:3000)
+  Fourth, run the system with: 
+  <code>
+    $ npm run dev
+  </code>
+
+  If everything was successful, you will be able to view the application at <a href="http://localhost:3000">http://localhost:3000</a>
 
   <h2 id="history">Development History<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#history" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
-  <p>The development process for the Musicians of Manoa project conformed to [Issue Driven Project Management](https://courses.ics.hawaii.edu/ics314f24/morea/project-management/reading-guidelines-idpm.html) practices. These practices include:</p>
+  <p>The development process for the Musicians of Manoa project conformed to <a href="https://courses.ics.hawaii.edu/ics314f24/morea/project-management/reading-guidelines-idpm.html">Issue Driven Project Management</a> practices. These practices include:</p>
 
   <ul>
     <li><b>Frequent Meetings:</b> Teams should meet at least twice a week to review progress and update tasks, with face-to-face meetings preferred for better coordination.</li>
@@ -113,7 +114,7 @@
   <p>The following sections document the development history of BowFolios</p>
   <h3>Milestone 1</h3>
   <p>The goal of Milestone 1 was to create as many mockup pages as possible of the necessary pages for our project, the group deciding building the pages using Nextjs from the start to be the easiest approach.<p>
-  <p>Milestone 1 was managed using [Musicians of Manoa Project Board M1](https://github.com/orgs/musicians-of-manoa/projects/1)</p>
+  <p>Milestone 1 was managed using <a href="https://github.com/orgs/musicians-of-manoa/projects/1">Musicians of Manoa Project Board M1</a></p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/M1Board.png" alt="M1 Project Board 24 hours before Milestone 1 was due.">
   </div>
