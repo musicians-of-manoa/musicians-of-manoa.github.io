@@ -60,10 +60,16 @@
     <img src="/img/signup.png" alt="Sign Up Page" style="width: 45%;">
   </div>
 
-  <h3>Jam Creation Page</h3>
-  <p>After logging in, there are more links shown in the navbar including "Create a Jam". Hitting this link will take you to the Jam Creation page, where you can fill in information for a musical jam session which will be posted to the website for other musicians to view.</p>
+  <h3>Jam Information Page</h3>
+  <p>After logging in, there are more links shown in the navbar including "Create a Jam". Hitting this link will take you to the Jam Information page, where you can fill in information for a musical jam session which will be posted to the website for other musicians to view.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/landing.png" alt="Landing Page">
+    <img src="/img/jam-information.png" alt="Jam Information Page">
+  </div>
+
+  <h3>Jam Search Page</h3>
+  <p>There is also a "Search" link in the navbar. Hitting this link will take you to the Jam Search page, where you can search for a musical jam session hosted by other musicians which the suer can view.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/jam-search.png" alt="Jam Search Page">
   </div>
 
   <h3>Edit Musical Goals / Tastes / Experience Pages</h3>
@@ -121,6 +127,13 @@
     <img src="/img/M1Board.png" alt="M1 Project Board 24 hours before Milestone 1 was due.">
   </div>
 
+<h3>Milestone 2</h3>
+  <p>The goal of Milestone 2 is to connect as many mockup pages as possible to a PostgreSQL database. For forms, this involves ensuring that form data is correctly stored in the Prisma schema tables. For edit forms, this requires verifying that they can retrieve previously entered data and allow modifications as needed.<p>
+  <p>Milestone 2 was managed using <a href="https://github.com/orgs/musicians-of-manoa/projects/3">Musicians of Manoa Project Board M2</a></p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/M2Board.png" alt="M2 Project Board">
+  </div>
+
   <h2 id="enhancements">Possible Enhancements<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#enhancements" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
   <p>Here are ideas for more advanced features:</p>
@@ -130,5 +143,3 @@
     <li>Support a network of “who’s played with who”.</li>
     <li>Support reviews of musicians.</li>
   </ul>
-
-</div>
