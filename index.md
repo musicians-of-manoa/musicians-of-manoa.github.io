@@ -29,9 +29,9 @@
   </b>
   <hr>
 
-  <a href="/img/Musicians%20of%20Manoa%20-%20Team%Contract.pdf"><b>Team Contract</b></a>
+  <a href="https://github.com/musicians-of-manoa/musicians-of-manoa.github.io/blob/main/img/Musicians%20of%20Manoa%20-%20Team%20Contract.pdf"><b>Team Contract</b></a>
   <br>
-  <a href="/img/Musicians%20of%20Manoa%20-%20Team%20Bonding.pdf"><b>Team Bonding</b></a>
+  <a href="https://github.com/musicians-of-manoa/musicians-of-manoa.github.io/blob/main/img/Musicians%20of%20Manoa%20-%20Team%20Bonding.pdf"><b>Team Bonding</b></a>
 
   <h2 id="approach">Approach<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#approach" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
@@ -82,15 +82,17 @@
 
   <h3>Installation</h3>
   First, make sure you have <a href="https://nodejs.org/en">Node</a> installed.
-
+  <br>
   Second, visit the <a href="https://github.com/musicians-of-manoa/musicians-of-manoa">Musicians of Manoa</a> GitHub page, and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
-
+  <br>
   Third, after having installed your local copy of the application, cd into the musicians-of-manoa directory with a command terminal and install libraries with:
+  <br>
   <code>
     $ npm install
   </code>
-
+  <br>
   Fourth, run the system with: 
+  <br>
   <code>
     $ npm run dev
   </code>
