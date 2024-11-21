@@ -85,7 +85,7 @@
   <h3>Search Page</h3>
   <p>There is also a "Search" link in the navbar. Hitting this link will take you to the Search page, where you can search for other profiles or jam sessions.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/earch.png" alt="Search Page">
+    <img src="/img/search.png" alt="Search Page">
   </div>
 
 <h3>Profile Search Page</h3>
