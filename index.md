@@ -60,10 +60,12 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signin.png" alt="Sign In Page">
   </div>
+  
   <p>The "Sign up" page allows the user to customize their profile by providing attributes such as their musical goals, instruments & experience levels, and musical tastes.</p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signup(creatinguser).png" alt="Creating User Page">
   </div>
+  
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/selectmusicaltaste.png" alt="Creating User Page: Select Musical Taste">
   </div>
@@ -83,7 +85,7 @@
   <h3>Search Page</h3>
   <p>There is also a "Search" link in the navbar. Hitting this link will take you to the Search page, where you can search for other profiles or jam sessions.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/jam-search.png" alt="Jam Search Page">
+    <img src="/img/earch.png" alt="Search Page">
   </div>
 
 <h3>Profile Search Page</h3>
