@@ -1,7 +1,7 @@
 <div class="container">
   <h1 id="project-campus-jam">Project: Musicians of Manoa</h1>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/musicians-of-manoa-logo.png" alt="Musicians of Manoa Logo">
+    <img src="/img/musicians-of-manoa-logo.png" alt="Musicians of Manoa Logo" style="height: 50%;">
   </div>
 
   <h2>Table of Contents</h2>
