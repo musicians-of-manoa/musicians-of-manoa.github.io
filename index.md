@@ -6,7 +6,7 @@
     <li><a href="#overview">Overview</a></li>
     <li><a href="#team">Development Team</a></li>
     <li><a href="#approach">Approach</a></li>
-    <li><a href="#guide">Website Guide</a></li>
+    <li><a href="#guide">Deployment</a></li>
     <li><a href="#dev-guide">Developer Guide</a></li>
     <li><a href="#history">Development History</a></li>
     <li><a href="#enhancements">Possible Enhancements</a></li>
@@ -45,7 +45,7 @@
 
   <p>Note: if you choose this idea for your final project, you cannot name it “Campus Jam”.  Come up with a different name for your final project.</p>
 
-  <h2 id="guide">Website Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
+  <h2 id="guide">Deployment<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
   <p>This section provides a walkthrough of the Musicians of Manoa current interface and its capabilities. Currently, the website is primarily composed of mockup pages, including the following. You can find a live deployment of the website at this link <a  href="https://musicians-of-manoa.vercel.app/">https://musicians-of-manoa.vercel.app</a>.</p>
 
@@ -60,19 +60,40 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signin.png" alt="Sign In Page">
   </div>
+  <p>The "Sign up" page allows the user to customize their profile by providing attributes such as their musical goals, instruments & experience levels, and musical tastes.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/signup(creatinguser).png" png alt="Creating User Page" style="width: 45%;">
-    <img src="/img/selectmusicaltaste.png" png alt="Creating User Page" style="width: 45%;">
+    <img src="/img/signup(creatinguser).png" alt="Creating User Page">
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/selectmusicaltaste.png" alt="Creating User Page: Select Musical Taste">
+  </div>
+
+  <h3>Upcoming Jams Page</h3>
+  <p>After logging in, there are more links shown in the navbar: "Feed", "Create a Jam", and "Search". Hitting the "Feed" link will take you to the Upcoming Jams Page, where you can see the upcoming jam sessions available.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/upcoming-jams.png" alt="Upcoming Jams Page">
   </div>
 
   <h3>Jam Information Page</h3>
-  <p>After logging in, there are more links shown in the navbar including "Create a Jam". Hitting this link will take you to the Jam Information page, where you can fill in information for a musical jam session which will be posted to the website for other musicians to view.</p>
+  <p>Hitting the "Create a Jam" link will take you to the Jam Information page, where you can fill in information for a musical jam session which will be posted to the website for other musicians to view.</p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/jam-information.png" alt="Jam Information Page">
   </div>
 
+  <h3>Search Page</h3>
+  <p>There is also a "Search" link in the navbar. Hitting this link will take you to the Search page, where you can search for other profiles or jam sessions.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/jam-search.png" alt="Jam Search Page">
+  </div>
+
+<h3>Profile Search Page</h3>
+  <p>Clicking the "Profiles" card on the Search Page will take you to the "Profile Search Page", where users can search for other user profiles.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/profile-search.png" alt="Profile Search Page">
+  </div>
+  
   <h3>Jam Search Page</h3>
-  <p>There is also a "Search" link in the navbar. Hitting this link will take you to the Jam Search page, where you can search for a musical jam session hosted by other musicians which the suer can view.</p>
+  <p>Clicking the "Jam" card on the Search Page will take you to the "Jam Search Page", where users can search for jam sessions hosted by other users.</p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/jam-search.png" alt="Jam Search Page">
   </div>
