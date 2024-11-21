@@ -6,7 +6,7 @@
     <li><a href="#overview">Overview</a></li>
     <li><a href="#team">Development Team</a></li>
     <li><a href="#approach">Approach</a></li>
-    <li><a href="#guide">Deployment</a></li>
+    <li><a href="#guide">Website Guide</a></li>
     <li><a href="#dev-guide">Developer Guide</a></li>
     <li><a href="#history">Development History</a></li>
     <li><a href="#enhancements">Possible Enhancements</a></li>
@@ -45,8 +45,9 @@
 
   <p>Note: if you choose this idea for your final project, you cannot name it “Campus Jam”.  Come up with a different name for your final project.</p>
 
-  <h2 id="guide">Deployment<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
+  <h2 id="guide">Website Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
+  <h3>Deployment</h3>
   <p>This section provides a walkthrough of the Musicians of Manoa current interface and its capabilities. Currently, the website is primarily composed of mockup pages, including the following. You can find a live deployment of the website at this link <a  href="https://musicians-of-manoa.vercel.app/">https://musicians-of-manoa.vercel.app</a>.</p>
 
   <h3>Landing Page</h3>
@@ -65,7 +66,7 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/signup(creatinguser).png" alt="Creating User Page">
   </div>
-  
+  <br />
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/selectmusicaltaste.png" alt="Creating User Page: Select Musical Taste">
   </div>
