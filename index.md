@@ -172,6 +172,13 @@
     <img src="/img/M2Board.png" alt="M2 Project Board">
   </div>
 
+  <h3>Milestone 3</h3>
+  <p>The goal of Milestone 3 is to refine the database connections and clean up the overall UI. <p>
+  <p>Milestone 3 was managed using <a href="https://github.com/orgs/musicians-of-manoa/projects/5">Musicians of Manoa Project Board M2</a></p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/M2Board.png" alt="M3 Project Board">
+  </div>
+
   <h2 id="enhancements">Possible Enhancements<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#enhancements" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
   <p>Here are ideas for more advanced features:</p>
