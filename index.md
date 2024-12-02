@@ -113,7 +113,7 @@
   <h3>Jam Search Page</h3>
   <p>Clicking the "Jam" card on the Search Page will take you to the "Jam Search Page", where users can search for jam sessions hosted by other users. Also, users can attend a jam session by clicking "Attend Jam".</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/attend-jam.png" alt="Jam Search Page">
+    <img src="/img/search-jams.png" alt="Jam Search Page">
   </div>
 
   <h3>Edit Musical Goals / Tastes / Experience Pages</h3>
@@ -126,6 +126,15 @@
     <img src="/img/editExperience.png" alt="Edit Experience Page" style="width: 45%;">
   </div>
 
+<h3>Edit Jam Information (Admin)</h3>
+  <p>Only admins have the ability to edit Jam information. They can do so by clicking the "Admin" tab in the navbar, and going to the "Edit Jams" section. Once they click on the "Edit" button, they are redirected to the "Edit Jam Information" form, which edits the existing form data.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/admin-edit-jams.png" alt="Admin Jam Edit Page">
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/edit-jams.png" alt="Edit Jam Information Page">
+  </div>
+  
   <h3>Review Info Page</h3>
   <p>With any site that helps poeple it is also helpful to receive any constructive criticism they may have, or to note things that are done well. There is also a sorting option that allows for one to see the reviews chronologically or in order of what rating they gave.</p>
 
@@ -186,9 +195,9 @@
 
   <h3>Milestone 3</h3>
   <p>The goal of Milestone 3 is to refine the database connections and clean up the overall UI. <p>
-  <p>Milestone 3 was managed using <a href="https://github.com/orgs/musicians-of-manoa/projects/5">Musicians of Manoa Project Board M2</a></p>
+  <p>Milestone 3 was managed using <a href="https://github.com/orgs/musicians-of-manoa/projects/5">Musicians of Manoa Project Board M3</a></p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/M2Board.png" alt="M3 Project Board">
+    <img src="/img/M3Board.png" alt="M3 Project Board">
   </div>
 
   <h2 id="enhancements">Possible Enhancements<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#enhancements" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
