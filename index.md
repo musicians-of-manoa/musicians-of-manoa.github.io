@@ -74,6 +74,12 @@
     <img src="/img/selectmusicaltaste.png" alt="Creating User Page: Select Musical Taste">
   </div>
 
+  <h3>View/Edit Profile Page</h3>
+  <p>Click on the "View/Edit Profile" button in the upper right corner of the navbar after logging in, User can see their own Profile page and can edit their information.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/view-profile.png" alt="View/Edit Profile Page">
+  </div>
+
   <h3>Upcoming Jams Page</h3>
   <p>After logging in, there are more links shown in the navbar: "Feed", "Create a Jam", and "Search". Hitting the "Feed" link will take you to the Upcoming Jams Page, where you can see the upcoming jam sessions available.</p>
   <div style="display: flex; justify-content: space-around;">
@@ -95,13 +101,19 @@
 <h3>Profile Search Page</h3>
   <p>Clicking the "Profiles" card on the Search Page will take you to the "Profile Search Page", where users can search for other user profiles.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/profile-search.png" alt="Profile Search Page">
+    <img src="/img/search-profiles.png" alt="Profile Search Page">
+  </div>
+
+  <h3>User's Profile and Review Creation Page</h3>
+  <p>Clicking the "View Profile" Button on the Search Profiles Page will take you to the "Profile Page", where users can see detailed Profile Information and Reivews and can leave review to the user.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/search-profiles.png" alt="Profile Page">
   </div>
   
   <h3>Jam Search Page</h3>
-  <p>Clicking the "Jam" card on the Search Page will take you to the "Jam Search Page", where users can search for jam sessions hosted by other users.</p>
+  <p>Clicking the "Jam" card on the Search Page will take you to the "Jam Search Page", where users can search for jam sessions hosted by other users. Also, users can attend a jam session by clicking "Attend Jam".</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/jam-search.png" alt="Jam Search Page">
+    <img src="/img/attend-jam.png" alt="Jam Search Page">
   </div>
 
   <h3>Edit Musical Goals / Tastes / Experience Pages</h3>
