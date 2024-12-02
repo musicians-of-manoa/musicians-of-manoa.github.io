@@ -107,7 +107,7 @@
   <h3>User's Profile and Review Creation Page</h3>
   <p>Clicking the "View Profile" Button on the Search Profiles Page will take you to the "Profile Page", where users can see detailed Profile Information and Reivews and can leave review to the user.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/search-profiles.png" alt="Profile Page">
+    <img src="/img/review-creation.png" alt="Profile Page">
   </div>
   
   <h3>Jam Search Page</h3>
