@@ -3,6 +3,7 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/musicians-of-manoa-logo.png" alt="Musicians of Manoa Logo" style="width: 50%;">
   </div>
+  [![musiciansofmanoa](https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml/badge.svg)](https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml)
 
   <h2>Table of Contents</h2>
   <ul>
@@ -135,12 +136,6 @@
     <img src="/img/edit-jams.png" alt="Edit Jam Information Page">
   </div>
   
-  <h3>Review Info Page</h3>
-  <p>With any site that helps poeple it is also helpful to receive any constructive criticism they may have, or to note things that are done well. There is also a sorting option that allows for one to see the reviews chronologically or in order of what rating they gave.</p>
-
-    <img src="/img/Review-info.png" alt="Review Info Page">
-  </div>
-  
   <h2 id="dev-guide">Developer Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#dev-guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
   <p>This section provides information of interest to Next developers wishing to use this code as a basis for their own development tasks.</p>
@@ -199,6 +194,69 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/M3Board.png" alt="M3 Project Board">
   </div>
+
+<h2>Quality Assurance</h2>
+<h3>ESLint</h3>
+<p>Musicians of Manoa includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/main/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:<p>
+
+<code>
+npm run lint
+</code>
+
+<p>Here is sample output indicating that no ESLint errors were detected:</p>
+
+<code>
+PS E:\ICS314\musicians-of-manoa> npm run lint
+
+> nextjs-application-template-1@0.1.0 lint
+> next lint
+
+=============
+
+WARNING: You are currently running a version of TypeScript which is not officially supported by @typescript-eslint/typescript-estree.
+
+You may find that it works just fine, or you may not.
+
+SUPPORTED TYPESCRIPT VERSIONS: >=4.7.4 <5.6.0
+
+YOUR TYPESCRIPT VERSION: 5.6.3
+
+Please only submit bug reports when using the officially supported version.
+
+=============
+✔ No ESLint warnings or errors
+</code>
+
+ESLint should run without generating any errors.
+
+It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+
+<h3>End to End Testing</h3>
+
+<p>
+Musicians of Manoa uses [Playwright](https://playwright.dev/) to provide automated end-to-end testing.
+<br>
+To run the end-to-end tests in development mode, you must first start up a Musicians of Manoa instance by invoking `npm run dev` in one console window.
+Then, in another console window, start up the end-to-end tests with:
+</p>
+<code>
+npm playwright test
+</code>
+
+<p>
+If the tests finish successfully, you should see the following in your second console window:
+</p>
+
+<code>
+PS E:\ICS314\musicians-of-manoa> npx playwright test                    
+
+Running 6 tests using 6 workers
+  6 passed (8.4s)
+
+To open last HTML report run:
+
+  npx playwright show-report
+</code>
 
   <h2 id="enhancements">Possible Enhancements<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#enhancements" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
