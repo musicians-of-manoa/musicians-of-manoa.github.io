@@ -4,8 +4,11 @@
     <img src="/img/musicians-of-manoa-logo.png" alt="Musicians of Manoa Logo" style="width: 50%;">
   </div>
   <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml/badge.svg" alt="musiciansofmanoa">
+    <a href="https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml">
+      <img src="https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml/badge.svg" alt="musiciansofmanoa">
+    </a>
   </div>
+
 
   <h2>Table of Contents</h2>
   <ul>
