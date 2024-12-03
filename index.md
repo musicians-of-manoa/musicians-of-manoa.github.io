@@ -3,7 +3,9 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/musicians-of-manoa-logo.png" alt="Musicians of Manoa Logo" style="width: 50%;">
   </div>
-  [![musiciansofmanoa](https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml/badge.svg)](https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml)
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml/badge.svg" alt="musiciansofmanoa">
+  </div>
 
   <h2>Table of Contents</h2>
   <ul>
@@ -13,6 +15,7 @@
     <li><a href="#guide">Website Guide</a></li>
     <li><a href="#dev-guide">Developer Guide</a></li>
     <li><a href="#history">Development History</a></li>
+    <li><a href="#quality-assurance">Quality Assurance</li>
     <li><a href="#enhancements">Possible Enhancements</a></li>
   </ul>
 
@@ -147,15 +150,11 @@
   <br>
   Third, after having installed your local copy of the application, cd into the musicians-of-manoa directory with a command terminal and install libraries with:
   <br>
-  <code>
-    $ npm install
-  </code>
+  <code>$ npm install</code>
   <br>
   Fourth, run the system with: 
   <br>
-  <code>
-    $ npm run dev
-  </code>
+  <code>$ npm run dev</code>
 
   If everything was successful, you will be able to view the application at <a href="http://localhost:3000">http://localhost:3000</a>
 
@@ -182,7 +181,8 @@
   </div>
 
 <h3>Milestone 2</h3>
-  <p>The goal of Milestone 2 is to connect as many mockup pages as possible to a PostgreSQL database. For forms, this involves ensuring that form data is correctly stored in the Prisma schema tables. For edit forms, this requires verifying that they can retrieve previously entered data and allow modifications as needed.<p>
+  <p>The goal of Milestone 2 is to connect as many mockup pages as possible to a PostgreSQL database. For forms, this involves ensuring that form data is correctly stored in the Prisma schema tables. For edit forms, this requires verifying that they can retrieve previously entered data and allow modifications as needed.</p>
+  <p>The pages currently connected to the database include the Jam Search(read), Jam Creation(write), Edit Jam(read and write), and Edit Goals(read) pages.</p>
   <p>Milestone 2 was managed using <a href="https://github.com/orgs/musicians-of-manoa/projects/3">Musicians of Manoa Project Board M2</a></p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/M2Board.png" alt="M2 Project Board">
@@ -195,68 +195,64 @@
     <img src="/img/M3Board.png" alt="M3 Project Board">
   </div>
 
-<h2>Quality Assurance</h2>
+<h2 id="quality-assurance">Quality Assurance<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#quality-assurance" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 <h3>ESLint</h3>
-<p>Musicians of Manoa includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/main/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:<p>
+<p>Musicians of Manoa includes a <a href="https://github.com/bowfolios/bowfolios/blob/main/app/.eslintrc">.eslintrc</a> file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:</p>
 
-<code>
-npm run lint
-</code>
+<code>npm run lint</code>
 
 <p>Here is sample output indicating that no ESLint errors were detected:</p>
 
-<code>
-PS E:\ICS314\musicians-of-manoa> npm run lint
 
-> nextjs-application-template-1@0.1.0 lint
-> next lint
+> PS E:\ICS314\musicians-of-manoa> npm run lint
+> 
+> \> nextjs-application-template-1@0.1.0 lint
+>
+> \> next lint
+> 
+> =============
+>
+> WARNING: You are currently running a version of TypeScript which is not officially supported by @typescript-eslint/typescript-estree.
+> 
+> You may find that it works just fine, or you may not.
+> 
+> SUPPORTED TYPESCRIPT VERSIONS: >=4.7.4 <5.6.0
+> 
+> YOUR TYPESCRIPT VERSION: 5.6.3
+> 
+> Please only submit bug reports when using the officially supported version.
+> 
+> =============
+> ✔ No ESLint warnings or errors
 
-=============
-
-WARNING: You are currently running a version of TypeScript which is not officially supported by @typescript-eslint/typescript-estree.
-
-You may find that it works just fine, or you may not.
-
-SUPPORTED TYPESCRIPT VERSIONS: >=4.7.4 <5.6.0
-
-YOUR TYPESCRIPT VERSION: 5.6.3
-
-Please only submit bug reports when using the officially supported version.
-
-=============
-✔ No ESLint warnings or errors
-</code>
-
+<p>
 ESLint should run without generating any errors.
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+</p>
 
 <h3>End to End Testing</h3>
 
 <p>
-Musicians of Manoa uses [Playwright](https://playwright.dev/) to provide automated end-to-end testing.
+Musicians of Manoa uses <a href="https://playwright.dev/">Playwright</a> to provide automated end-to-end testing.
 <br>
 To run the end-to-end tests in development mode, you must first start up a Musicians of Manoa instance by invoking `npm run dev` in one console window.
 Then, in another console window, start up the end-to-end tests with:
 </p>
-<code>
-npm playwright test
-</code>
+<code>npm playwright test</code>
 
 <p>
 If the tests finish successfully, you should see the following in your second console window:
 </p>
 
-<code>
-PS E:\ICS314\musicians-of-manoa> npx playwright test                    
-
-Running 6 tests using 6 workers
-  6 passed (8.4s)
-
-To open last HTML report run:
-
-  npx playwright show-report
-</code>
+> PS E:\ICS314\musicians-of-manoa> npx playwright test                    
+> 
+> Running 6 tests using 6 workers
+>  6 passed (8.4s)
+> 
+> To open last HTML report run:
+> 
+> npx playwright show-report
 
   <h2 id="enhancements">Possible Enhancements<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#enhancements" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
