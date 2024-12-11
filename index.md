@@ -63,7 +63,10 @@
   <h3>Landing Page</h3>
   <p>The landing page is presented to users when they visit the top-level URL to the site. This page presents basic information about the project and buttons that will take them to other commonly used pages.</p>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/landing.png" alt="Landing Page">
+    <img src="/img/landing-1.png" alt="Landing Page 1">
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/landing-2.png" alt="Landing Page 2">
   </div>
 
   <h3>Sign In/Sign Up</h3>
@@ -121,6 +124,12 @@
   <p>Clicking the "Jam" card on the Search Page will take you to the "Jam Search Page", where users can search for jam sessions hosted by other users. Also, users can attend a jam session by clicking "Attend Jam".</p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/search-jams.png" alt="Jam Search Page">
+  </div>
+  
+  <h3>Attending Jams Page</h3>
+  <p>The Jam session the user selects by clicking "Attend Jam" is saved onto a card on the "Attending Jams Page." The user can also delete this Jam session if they decide to not attend it anymore or if it's a past Jam session.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/attending-jams.png" alt="Attending Jams Page">
   </div>
 
   <h3>Edit Musical Goals / Tastes / Experience Pages</h3>
