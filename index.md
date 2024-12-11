@@ -15,10 +15,10 @@
     <li><a href="#overview">Overview</a></li>
     <li><a href="#team">Development Team</a></li>
     <li><a href="#approach">Approach</a></li>
-    <li><a href="#guide">Website Guide</a></li>
+    <li><a href="#guide">User Guide</a></li>
     <li><a href="#dev-guide">Developer Guide</a></li>
     <li><a href="#history">Development History</a></li>
-    <li><a href="#quality-assurance">Quality Assurance</li>
+    <li><a href="#quality-assurance">Quality Assurance</a></li>
     <li><a href="#enhancements">Possible Enhancements</a></li>
   </ul>
 
@@ -56,9 +56,6 @@
   <p>Note: if you choose this idea for your final project, you cannot name it “Campus Jam”.  Come up with a different name for your final project.</p>
 
   <h2 id="guide">Website Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
-
-  <h3>Deployment</h3>
-  <p>This section provides a walkthrough of the Musicians of Manoa current interface and its capabilities. Currently, the website is primarily composed of mockup pages, including the following. You can find a live deployment of the website at this link <a  href="https://musicians-of-manoa.vercel.app/">https://musicians-of-manoa.vercel.app</a>.</p>
 
   <h3>Landing Page</h3>
   <p>The landing page is presented to users when they visit the top-level URL to the site. This page presents basic information about the project and buttons that will take them to other commonly used pages.</p>
@@ -154,6 +151,9 @@
   <h2 id="dev-guide">Developer Guide<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#dev-guide" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
   <p>This section provides information of interest to Next developers wishing to use this code as a basis for their own development tasks.</p>
+
+  <h3>Deployment</h3>
+  <p>You can find a live deployment of the website at this link <a  href="https://musicians-of-manoa.vercel.app/">https://musicians-of-manoa.vercel.app</a>.</p>
 
   <h3>Installation</h3>
   First, make sure you have <a href="https://nodejs.org/en">Node</a> installed.
