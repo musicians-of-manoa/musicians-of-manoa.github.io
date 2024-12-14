@@ -220,6 +220,16 @@ We are interested in your experience using Musicians of Manoa! If you have any s
     <li>We were told that the overall design of the application was visually appealing. They found the Profile Info Cards in Search Page to be clear and informative. As a suggestion for improvement, they recommended adding a filter option button next to the search bar on the search pages for enhanced functionality. </li>
 </ul>
 
+<p>Person 2</p>
+<ul>
+    <li>I liked the color scheme of the website! Sticking to UH Manoa colors. The home page is well designed and looks cool. I think the user's profile could use some work, maybe if this is for musicians you could link to the person's music somehow. I like search page as well, being able to see all the profiles and events. </li>
+</ul>
+
+<p>Person 3</p>
+<ul>
+    <li>It's a cool website. I tried messing with the login stuff and it was a little broken at times, like the signing up it was a little hard to select the genres I liked. Beside that though I can see the potential in this site, it's cool. Maybe add more ways users could interact with each other like a social media website or something?</li>
+</ul>
+
 <h2 id="quality-assurance">Quality Assurance<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#quality-assurance" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 <h3>ESLint</h3>
 <p>Musicians of Manoa includes a <a href="https://github.com/bowfolios/bowfolios/blob/main/app/.eslintrc">.eslintrc</a> file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:</p>
