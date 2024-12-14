@@ -235,6 +235,11 @@ We are interested in your experience using Musicians of Manoa! If you have any s
   <li>I really like the color scheme of the website and how well it is organized. I think adding a calendar to the Feed page would make the Jam Event Feed more clear and user-friendly.</li>
 </ul>
 
+<p>Person 5</p>
+<ul>
+  <li>It would be cool if users can add videos of their past jam sessions to show their skill. That makes their profiles more interesting. Overall, the website looks easy to use and fun to explore.</li>
+</ul>
+
 <h2 id="quality-assurance">Quality Assurance<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#quality-assurance" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 <h3>ESLint</h3>
 <p>Musicians of Manoa includes a <a href="https://github.com/bowfolios/bowfolios/blob/main/app/.eslintrc">.eslintrc</a> file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:</p>
