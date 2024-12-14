@@ -216,6 +216,9 @@ We are interested in your experience using Musicians of Manoa! If you have any s
 <p>Here are some suggestions we've gotten so far from community members who have used Musicians of Manoa.</p>
 
 <p>Person 1</p>
+<ul>
+    <li>We were told that the overall design of the application was visually appealing. They found the Profile Info Cards in Search Page to be clear and informative. As a suggestion for improvement, they recommended adding a filter option button next to the search bar on the search pages for enhanced functionality. </li>
+</ul>
 
 <h2 id="quality-assurance">Quality Assurance<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#quality-assurance" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 <h3>ESLint</h3>
