@@ -209,6 +209,7 @@
   </div>
 
 <h2 id="feedback">Community Feedback<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#team" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
+We are interested in your experience using Musicians of MAnoa! If you have any suggestions on how we can improve the application, feel free to fill out our feedback form : https://docs.google.com/forms/d/e/1FAIpQLSev62PmoiMksL4z72u7VoMeBEaRiqLEF4Jr759wk5Lv6m7qew/viewform?usp=sf_link
 
 <h2 id="quality-assurance">Quality Assurance<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#quality-assurance" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 <h3>ESLint</h3>
