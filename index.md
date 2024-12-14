@@ -118,16 +118,16 @@
     <img src="/img/search-jams.png" alt="Jam Search Page">
   </div>
 
+  <h3>Attending Jams Page</h3>
+  <p>Once the user clicks the "Attend Jam" button on the Jam Information Card, their jam is saved onto the "Attending Jams Page." The user can also delete this Jam session if they decide to not attend it anymore or if it's a past Jam session.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/attending-jams.png" alt="Attending Jams Page">
+  </div>
+
   <h3>Jam Information Page</h3>
   <p>Hitting the "Create a Jam" link will take you to the Jam Information page, where you can fill in information for a musical jam session which will be posted to the website for other musicians to view.</p>
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/jam-information.png" alt="Jam Information Page">
-  </div>
-
-  <h3>Attending Jams Page</h3>
-  <p>The Jam session the user selects by clicking "Attend Jam" is saved onto a card on the "Attending Jams Page." The user can also delete this Jam session if they decide to not attend it anymore or if it's a past Jam session.</p>
-  <div style="display: flex; justify-content: space-around;">
-    <img src="/img/attending-jams.png" alt="Attending Jams Page">
   </div>
 
   <h3>Edit Musical Goals / Tastes / Experience Pages</h3>
@@ -136,8 +136,10 @@
     <img src="/img/editGoal.png" alt="Edit Goals Page">
   </div>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/editTaste.png" alt="Edit Tastes Page" style="width: 45%;">
-    <img src="/img/editExperience.png" alt="Edit Experience Page" style="width: 45%;">
+    <img src="/img/editTaste.png" alt="Edit Tastes Page">
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/editExperience.png" alt="Edit Experience Page">
   </div>
 
 <h3>Admin Dashboard Page</h3>
