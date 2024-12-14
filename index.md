@@ -18,6 +18,7 @@
     <li><a href="#guide">User Guide</a></li>
     <li><a href="#dev-guide">Developer Guide</a></li>
     <li><a href="#history">Development History</a></li>
+    <li><a href="#feedback">Community Feedback</a></li>
     <li><a href="#quality-assurance">Quality Assurance</a></li>
     <li><a href="#enhancements">Possible Enhancements</a></li>
   </ul>
@@ -206,6 +207,8 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/M3Board.png" alt="M3 Project Board">
   </div>
+
+<h2 id="feedback">Community Feedback<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#team" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 
 <h2 id="quality-assurance">Quality Assurance<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#quality-assurance" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
 <h3>ESLint</h3>
