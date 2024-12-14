@@ -94,12 +94,6 @@
     <img src="/img/upcoming-jams.png" alt="Upcoming Jams Page">
   </div>
 
-  <h3>Jam Information Page</h3>
-  <p>Hitting the "Create a Jam" link will take you to the Jam Information page, where you can fill in information for a musical jam session which will be posted to the website for other musicians to view.</p>
-  <div style="display: flex; justify-content: space-around;">
-    <img src="/img/jam-information.png" alt="Jam Information Page">
-  </div>
-
   <h3>Search Page</h3>
   <p>There is also a "Search" link in the navbar. Hitting this link will take you to the Search page, where you can search for other profiles or jam sessions.</p>
   <div style="display: flex; justify-content: space-around;">
@@ -123,7 +117,13 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/search-jams.png" alt="Jam Search Page">
   </div>
-  
+
+  <h3>Jam Information Page</h3>
+  <p>Hitting the "Create a Jam" link will take you to the Jam Information page, where you can fill in information for a musical jam session which will be posted to the website for other musicians to view.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/jam-information.png" alt="Jam Information Page">
+  </div>
+
   <h3>Attending Jams Page</h3>
   <p>The Jam session the user selects by clicking "Attend Jam" is saved onto a card on the "Attending Jams Page." The user can also delete this Jam session if they decide to not attend it anymore or if it's a past Jam session.</p>
   <div style="display: flex; justify-content: space-around;">
@@ -138,6 +138,12 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/editTaste.png" alt="Edit Tastes Page" style="width: 45%;">
     <img src="/img/editExperience.png" alt="Edit Experience Page" style="width: 45%;">
+  </div>
+
+<h3>Admin Dashboard Page</h3>
+  <p>By clicking on the "Admin" tab in the navbar, Admins have the ability to edit experience levels, musical goals, and musical tastes. They can also view all of the signed in users.</p>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="/img/admin-dashboard.png" alt="Admin Dashboard Page">
   </div>
 
 <h3>Edit Jam Information (Admin)</h3>
